@@ -1,0 +1,7 @@
+{
+  "posts": [
+    {"id": 1, "title": "JavaScript post", "body": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored"},
+    {"id": 2, "title": "React post", "body": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored"},
+    {"id": 3, "title": "Json-server post", "body": "Id values are not mutable. Any id value in the body of your PUT or PATCH request will be ignored"}
+  ]
+}
